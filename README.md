@@ -24,3 +24,10 @@ Make a for loop that will run for each number in primeNumbers.  It will:
 * And any other number should work as well
 
 Keep in mind that this program is limited in that it only contains the primes between 0 and 200.  Also if a user doesn’t enter an integer, then it will crash.
+
+###Discussion Questions:
+
+1. Why might the programmer choose to use a tuple for primeNumbers but a list for the factors list?
+2. Describe how many times the for loop has to loop.  Why does it have to loop that many times?
+3. For the first test case 10, 10 is smaller than most of the prime numbers.  What will the modular division return when the prime number is bigger than 10?  Why?
+4. Humans might be faster in some cases than this program.  In what case would a human be faster?  Why?
