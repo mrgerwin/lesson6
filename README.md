@@ -25,7 +25,7 @@ Make a for loop that will run for each number in primeNumbers.  It will:
 
 Keep in mind that this program is limited in that it only contains the primes between 0 and 200.  Also if a user doesn’t enter an integer, then it will crash.
 
-###Discussion Questions:
+### Discussion Questions:
 
 1. Why might the programmer choose to use a tuple for primeNumbers but a list for the factors list?
 2. Describe how many times the for loop has to loop.  Why does it have to loop that many times?
